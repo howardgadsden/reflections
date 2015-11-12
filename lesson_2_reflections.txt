@@ -4,3 +4,6 @@ So git can kepp metadata about the files in the directory.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is an intermediate area. You can still make changes before the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Use git status and git diff to check to see what changes are in the staging area.
