@@ -13,3 +13,6 @@ Branches help if you want to keep a master working version of your file while tr
 
 How do the diagrams help you visualize the branch structure?
 Diagrams give you a visual view of hte branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The two branches have their code merged into one version of hte code and the two branches become one. the diagram illustrates this visually.
