@@ -10,3 +10,6 @@ Use git status and git diff to check to see what changes are in the staging area
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches help if you want to keep a master working version of your file while trying out changes in another branch. Each branch has a label and can be checked out separately.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams give you a visual view of hte branches.
